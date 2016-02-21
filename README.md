@@ -1,3 +1,8 @@
+##Update Version Notification
+This is an update to existing Readme from RDPeng folder
+This repo contains codes for recreating plots from project 1 of Exploratory Data Analysis, Coursera.
+Repo Created Feb, 21, 2016. For details of this project read on...
+
 ## Introduction
 
 This assignment uses data from
